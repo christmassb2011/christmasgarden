@@ -11,7 +11,8 @@
 ---
 ### Welcome to the Christmas Vault — The First Year of Everything
 
-**Title**: ***The Quiet Ledger***
+**Title**: ***The Quiet Ledger.***
+**Day**: ***The Day Where I Experienced Articness And Christmas.***
 
 This is your central hub for everything Christmas!
 Explore the folders for history, legends, decorations, music, foods, rituals, movies, and global celebrations.
@@ -37,3 +38,8 @@ Navigate through:
 - **One thing to continue next year:** **Maintain my learning and exploring habits.**
 - **One thing to end next year:** **Stop messy habits.**
 
+---
+### Triad Reflection
+- **One thought:** 
+- **One artifact:** 
+- **One emotion:** 
