@@ -35,11 +35,11 @@ Navigate through:
 
 ---
 ### Continuity Marker
-- **One thing to continue next year:** **Maintain my learning and exploring habits.**
-- **One thing to end next year:** **Stop messy habits.**
+- **One thing to continue next year:** ***Maintain my learning and exploring habits.***
+- **One thing to end next year:** ***Stop messy habits.***
 
 ---
 ### Triad Reflection
-- **One thought:** 
-- **One artifact:** 
-- **One emotion:** 
+- **One thought:** ***Some experiences can change your life.***
+- **One artifact:** ***Christmas Vault template, Greenlandic starter notes.***
+- **One emotion:** ***Sometimes happyness is enough for gaining experience.***
